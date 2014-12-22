@@ -3,9 +3,6 @@
 #include "CUnit/CUnit.h"
 #include "CUnit/Basic.h"
 
-#define true 1
-#define false 0
-
 int init_suite(void) {
   return 0;
 }
